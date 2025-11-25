@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Riddhi Srivastava
 =========================================================================================================================================
 
-Fontend Developer and DSA Enthusiast
+Full Stack Developer and DSA AND AI Enthusiast
 ------------------------------------
 
 Technology excites me and Certain skills that I have working with include Data Structures and Algorithms (Java), Font end Development (HTML, CSS, JavaScript ). And what I might lack in skills I make up for with my determination to learn.
