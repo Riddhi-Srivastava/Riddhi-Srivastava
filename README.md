@@ -83,10 +83,4 @@ I enjoy building scalable applications, working with backend APIs, and continuou
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=riddhi-srivastava&show_icons=true&theme=dark&hide_rank=true" />
-
----
-
 ⭐ *Focused on building real-world projects, strengthening fundamentals, and growing as a software engineer.*
