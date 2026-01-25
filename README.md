@@ -1,32 +1,76 @@
-Hi 👋 My name is Riddhi Srivastava
-================================
+Hi 👋 I’m Riddhi Srivastava
+==========================
 
-Aspiring Software Developer | Web Development & DSA (Java)
-----------------------------------------------------------
+Software Engineering Student | Full Stack (MERN) | DSA in Java
+-------------------------------------------------------------
 
-I am a Computer Science student passionate about building web applications and improving my problem-solving skills using Java.  
-I enjoy learning new technologies and continuously working on strengthening my fundamentals in Data Structures and Algorithms.
+I am an aspiring Software Engineer with hands-on experience in full stack web development and a strong foundation in Data Structures and Algorithms using Java.  
+I enjoy building scalable applications, working with backend APIs, and continuously improving my problem-solving skills.
 
 * 🌍 Based in Gorakhpur, India  
-* ✉️ Contact: riddhisri123gkp@gmail.com  
-* 🧠 Currently learning React, Backend fundamentals & DSA  
-* 🤝 Open to collaborating on frontend / full-stack projects  
-* 🚀 Career Interest: Software Development  
+* ✉️ Contact: riddhisrigkp234@gmail.com  
+* 🎓 B.Tech – Information Technology (CGPA: 8.03)  
+* 🧠 Currently exploring backend systems, APIs, and applied AI  
+* 🤝 Open to collaboration on full-stack and backend projects  
 
-### Skills
+---
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
-</p>
+## 🛠️ Technical Skills
 
-### Socials
+**Programming & DSA**
+- Java (DSA, Problem Solving – LeetCode 100+)
+- Python (Basics)
+
+**Frontend**
+- HTML, CSS, JavaScript
+- React
+
+**Backend & Databases**
+- Node.js, Express.js
+- MongoDB
+- RESTful API Design
+
+**AI / LLM (Project-based)**
+- LLM workflows
+- LangChain
+- API-based model integration
+
+**Tools & CS Fundamentals**
+- Git & GitHub
+- DBMS, OS, CN, OOPs
+- Deployment: Vercel, Netlify
+
+---
+
+## 💼 Experience
+
+**Summer Trainee – Samsung Innovation Campus (2024)**  
+- Designed and developed applications following software engineering principles  
+- Collaborated in a team environment and applied structured problem-solving and debugging techniques  
+
+**Hackathon Experience**
+- **E-Summit’24, IIT Kanpur** – Built backend services for an LLM-based system involving API design, model integration, and database management  
+- **HACK’24, IIIT Delhi** – Designed RESTful backend services for a student project showcase platform  
+- **Samsung Innovation Campus Hackathon** – Built a responsive frontend UI and integrated an AI chatbot  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Rapid Revise – Express Knowledge Sharing Platform
+- Full-stack MERN application connecting students with local tutors  
+- Implemented RESTful APIs, real-time features, and backend logic  
+- Optimized for usability and low-connectivity environments  
+
+### 🔹 IntelliInsight – AI Research Paper Analysis System
+- Built an AI system to analyze research papers from PDFs  
+- Implemented classification using TF-IDF, Logistic Regression, and BERT embeddings  
+- Integrated FastAPI ML service with Node.js backend and React frontend  
+- Features include PDF upload, automated analysis, and confidence-based summaries  
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/riddhi-srivastava-355666273/" target="_blank">
@@ -37,7 +81,12 @@ I enjoy learning new technologies and continuously working on strengthening my f
 </a>
 </p>
 
-### GitHub Stats
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=riddhi-srivastava&show_icons=true&theme=dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riddhi-srivastava&theme=dark" />
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=riddhi-srivastava&show_icons=true&theme=dark&hide_rank=true" />
+
+---
+
+⭐ *Focused on building real-world projects, strengthening fundamentals, and growing as a software engineer.*
